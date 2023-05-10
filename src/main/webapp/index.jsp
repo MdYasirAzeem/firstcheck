@@ -22,7 +22,7 @@
   <div class="top-container colored-background">
 
     <nav class="navbar navbar-dark navbar-expand-lg">
-    <a class="navbar-brand" href="index.html" style="font-weight: bold; font-size: 1.5rem;"> Techieyasir</a>
+    <a class="navbar-brand" href="index.jsp" style="font-weight: bold; font-size: 1.5rem;"> Techieyasir</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
